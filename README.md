@@ -1,7 +1,12 @@
 ### Hi there 👋
+## Hey 👋, This is xlnx
+[![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnx089&langs_count=8)](https://github.com/xlnx089/xlnx089)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnx089&show_icons=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xlnx089&show_icons=true&include_all_commits=true)](https://github.com/xlnx089/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnx089&layout=compact)](https://github.com/xlnx089/github-readme-stats)
+
 
 
 
