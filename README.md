@@ -1,4 +1,4 @@
-## Hey 👋, This is xlnx
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Iam xlnx
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
