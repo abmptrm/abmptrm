@@ -8,7 +8,7 @@
 <a href="https://instagram.com/yyooww._/">
   <img align="left" alt="xlnx's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/xlinx _/">
+<a href="https://www.youtube.com/channel/UCqvV3y8bqNHdGL1LX9F2x0w">
   <img align="left" alt="xlnx's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
