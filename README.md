@@ -18,7 +18,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
 
- - 👨‍💻 I’m currently working and learning on Python, Java
+ - 👨‍💻 I’m currently working and learning on Python, Java 
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
