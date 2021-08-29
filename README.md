@@ -1,4 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="29px"> 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="29px">  
+  
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,21 +11,23 @@
 </a>
 <a href="https://www.youtube.com/channel/UCqvV3y8bqNHdGL1LX9F2x0w">
   <img align="left" alt="xlnx's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
+</a><br/><br/> 
 <br/>
-<br/>
-
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
 [![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)  
+ 
+<br/>
+<img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">  
+- 👨‍💻 I’m currently working and learning on Python, Java
+- asdsad
+- asdsadd
+- asdasdsad
+- asdsad
 
-  <img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">  
-  
- - 👨‍💻 I’m currently working and learning on Python, Java  
 
 ## 🔧 Technologies & Tools
 
@@ -34,7 +37,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
 
 ## Some of my Github Stats
-<p <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
+<p align="left" <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
