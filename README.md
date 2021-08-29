@@ -22,7 +22,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 <br/>
 
-<img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"><br/>
+<img align="center" padding-left="20px" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"><br/>
 - 👨‍💻 I’m currently working and learning on Python, Java 
 
 
