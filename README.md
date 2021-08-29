@@ -18,9 +18,19 @@
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
-[![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)
+[![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
- - 👨‍💻 I’m currently working and learning on Python, Java 
+  <img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">  
+  
+ - 👨‍💻 I’m currently working and learning on Python, Java  
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
