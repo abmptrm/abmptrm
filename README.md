@@ -20,6 +20,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
 [![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 
   <img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">  
   
@@ -33,7 +34,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
+<p <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
