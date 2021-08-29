@@ -18,7 +18,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
-[![Instagram Badge](https://img.shields.io/badge/-@xlnx089-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)
+[![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)
 
  - 👨‍💻 I’m currently working and learning on Python, Java 
 
