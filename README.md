@@ -17,7 +17,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
-[![Instagram Badge](https://img.shields.io/badge/-@xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)  
+[![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yyooww._/)](https://instagram.com/yyooww._)  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 <br/>
