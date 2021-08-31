@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="33px">  
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">  
   
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
