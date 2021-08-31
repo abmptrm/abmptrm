@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="29px">  
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="33px">  
   
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,7 +23,7 @@
 <br/>
 
 <img align="center" padding-left="20px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"><br/>
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently working and learning on Python, Java 
 
 
