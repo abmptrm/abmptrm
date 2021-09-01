@@ -17,11 +17,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
-[![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xlnx089/)](https://www.instagram.com/xlnx089/)
-[![Discord Badge](https://img.shields.io/badge/-xlnx089-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724)](https://discordapp.com/users/831452821689073724/)  
+[![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xlnx089&color=E1306C)](https://www.instagram.com/xlnx089/)
+[![Discord Badge](https://img.shields.io/badge/-xlnx089-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724&color=blueviolet)](https://discordapp.com/users/831452821689073724/)  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
-<br/>
+![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
 <img align="center" padding-left="20px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"><br/>
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
@@ -36,7 +36,6 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
 
 ## Some of my Github Stats
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=xlnx089 alt=xlnx089 /> </p> 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
