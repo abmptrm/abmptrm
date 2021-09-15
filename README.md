@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>  
+<h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>  
   
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
@@ -23,9 +23,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
-<img align="center" padding-left="20px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"><br/>
+<img align="center" padding-left="20px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"><br/></br>
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently learning on <b>Python, Java</b>  
+
+<br/>
 
 
 ## 🔧 Languages & Tools
@@ -34,6 +36,7 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)  
+</br>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
@@ -43,6 +46,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
   
+</br>
 
 ## Some of my Github Stats
 
