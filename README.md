@@ -48,7 +48,7 @@
   
 </br>
 
-## Some of my Github Stats
+## My Github Stats
 
 <br/>
 
