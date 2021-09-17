@@ -23,12 +23,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
-<img align="center" padding-left="20px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"><br/></br>
+<img align="center" padding-left="15px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="280px"><br/>
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently learning on <b>Python, Java</b>  
 
 <br/>
-
 
 ## 🔧 Languages & Tools
 
