@@ -23,11 +23,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
-<img align="center" padding-left="15px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="280px"><br/>
+<!-- <img align="center" padding-left="20px" src="https://external-preview.redd.it/XGpLkbP1sMaZ18qJPbi8ckzt2-163_2fcauKXSTIoBQ.gif" width="280px">  <br> -->
+![kocheng_1](https://user-images.githubusercontent.com/50400974/134038978-7a03c6a0-4584-4907-950e-adf68355d8b8.gif)
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently learning on <b>Python, Java</b>  
-
-<br/>
 
 ## 🔧 Languages & Tools
 
@@ -44,8 +43,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
-  
-</br>
 
 ## 📊 My Github Stats
 
