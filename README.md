@@ -23,8 +23,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
-<!-- <img align="center" padding-left="20px" src="https://external-preview.redd.it/XGpLkbP1sMaZ18qJPbi8ckzt2-163_2fcauKXSTIoBQ.gif" width="280px">  <br> -->
-![kocheng_1](https://user-images.githubusercontent.com/50400974/134038978-7a03c6a0-4584-4907-950e-adf68355d8b8.gif)
+<img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/>
+<!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently learning on <b>Python, Java</b>  
 
@@ -39,8 +39,8 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="jetbrains" width="40" height="40"/> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<a href="https://www.heroku.com/" target="_blank"> <img src="https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg" alt="heroku" width="39" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/64x64.svg" alt="bash" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 
