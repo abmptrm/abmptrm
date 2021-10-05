@@ -23,7 +23,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
-<img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/>
+<!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
+<img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/>
 <!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
 - 👨‍💻 I’m currently learning on <b>Python, Java</b>  
