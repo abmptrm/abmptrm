@@ -19,7 +19,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
 [![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xlnx089&color=E1306C)](https://www.instagram.com/xlnx089/)
 [![Discord Badge](https://img.shields.io/badge/-xlnx089-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724&color=blueviolet)](https://discordapp.com/users/831452821689073724/)  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
