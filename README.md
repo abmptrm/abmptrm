@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam xlnx <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px"></h1>  
+<h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam Ario Bimo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px"></h1>  
   
 <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
@@ -49,9 +49,9 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnx089&show_icons=true)
+![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ario-bimo&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnx089&layout=compact)](https://github.com/xlnx089/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario-bimo&layout=compact)](https://github.com/ario-bimo/github-readme-stats)
 
 
 
