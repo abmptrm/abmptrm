@@ -49,9 +49,9 @@
 
 <br/>
 
-![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ario-bimo&show_icons=true)
+![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikann666&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario-bimo&layout=compact)](https://github.com/ario-bimo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikann666&layout=compact)](https://github.com/ikann666/github-readme-stats)
 
 
 
