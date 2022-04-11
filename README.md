@@ -34,6 +34,9 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)
+
 <!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)   -->
 </br>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
