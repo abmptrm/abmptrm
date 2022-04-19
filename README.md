@@ -57,8 +57,8 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikan666&" alt="ikan666" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
-![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ikan666.ikan666)
+![](https://komarev.com/ghpvc/?username=ikan666&color=brightgreen)
 
 
 
