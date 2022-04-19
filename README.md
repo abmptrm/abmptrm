@@ -51,9 +51,11 @@
 
 <br/>
 
-![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikann666&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikan666&layout=compact)](https://github.com/ikann666/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikann666&layout=compact)](https://github.com/ikann666/github-readme-stats)
+![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikan666&show_icons=true)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikan666&" alt="ikan666" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
 ![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
