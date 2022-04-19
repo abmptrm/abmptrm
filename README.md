@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, Iam Ario Bimo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px"></h1>  
   
-<a href="https://twitter.com/xlnx089">
+<!-- <a href="https://twitter.com/xlnx089">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://github.com/xlnx089">
@@ -16,9 +16,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
 [![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xlnx089&color=E1306C)](https://www.instagram.com/xlnx089/)
 [![Discord Badge](https://img.shields.io/badge/-xlnx089-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724&color=blueviolet)](https://discordapp.com/users/831452821689073724/)  
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
-![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
+
 
 <!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
 <img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/>
@@ -28,11 +27,11 @@
 
 ## 🔧 Languages & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=6aa6f8) -->
 
 <!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)   -->
 </br>
@@ -56,6 +55,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikann666&layout=compact)](https://github.com/ikann666/github-readme-stats)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
+![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
 
 
 
