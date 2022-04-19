@@ -8,10 +8,7 @@
 </a>
 <a href="https://www.instagram.com/xlnx089/">
   <img align="left" alt="xlnx's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCqvV3y8bqNHdGL1LX9F2x0w">
-  <img align="left" alt="xlnx's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-</a>
+</a>.
 <br/>
 <br/>
 
