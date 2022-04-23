@@ -57,7 +57,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikan666&layout=compact)](https://github.com/ikann666/github-readme-stats)
 
-![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikan666&show_icons=true)
+<!-- ![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikan666&show_icons=true) -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikan666&show_icons=true&include_all_commits=true&count_private=true"/>
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikan666&" alt="ikan666" />
 
