@@ -22,9 +22,7 @@
 <!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
 <img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/>
 <!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->  
-<div align="left">
-   <a href="https://open.spotify.com/user/8plgb8lpkakhbyabeat9oycn4?si=49bfeea810854eb8"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
-</div>  
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> About me... 
 - 👨‍💻 I’m currently learning on <b>Python, JavaScript</b>  <br/>
