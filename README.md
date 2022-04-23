@@ -21,8 +21,12 @@
 
 <!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
 <img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/>
-<!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> About me...
+<!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->  
+<div align="left">
+   <a href="https://open.spotify.com/user/8plgb8lpkakhbyabeat9oycn4"><img src="https://novatorem-ahmadzaki2975.vercel.app/api/spotify/?background_&border_color=ffffff" alt="codeSTACKr    Spotify Playing" width="400" /></a>
+</div>  
+
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> About me... </h2>
 - 👨‍💻 I’m currently learning on <b>Python, JavaScript</b>  
 - 🤖 Discord bot music using [discord.py](https://github.com/Rapptz/discord.py) [<a href="https://discord.com/oauth2/authorize?client_id=878538776564088832&permissions=8&scope=bot" target="_blank">invite</a>]
 
