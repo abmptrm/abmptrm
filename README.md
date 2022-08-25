@@ -27,7 +27,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> About me... 
 - 👨‍💻 I’m currently learning on <b>Python, JavaScript</b>  <br/>
-- 🤖 Discord bot music using [discord.py](https://github.com/Rapptz/discord.py) [<a href="https://discord.com/oauth2/authorize?client_id=878538776564088832&permissions=8&scope=bot" target="_blank">invite</a>]  
+- 🤖 I made a discord bot music using [discord.py](https://github.com/Rapptz/discord.py) [<a href="https://discord.com/oauth2/authorize?client_id=878538776564088832&permissions=8&scope=bot" target="_blank">invite</a>]  
 
 
 ## 🔧 Languages & Tools
