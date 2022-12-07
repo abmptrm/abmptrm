@@ -1,22 +1,22 @@
 <!-- <h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>   -->
 <h1>Heyy </h1>
   
-<!-- <a href="https://twitter.com/xlnx089">
+<!-- <a href="https://twitter.com/abmptrm">
   <img align="left" alt="xlnx's Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://github.com/xlnx089">
+<a href="https://github.com/abmptrm">
   <img align="left" alt="xlnx's Github" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 </a>
-<a href="https://www.instagram.com/xlnx089/">
+<a href="https://www.instagram.com/abmptrm/">
   <img align="left" alt="xlnx's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>.
 <br/>
 <br/>
 
-[![Github Badge](https://img.shields.io/badge/-xlnx089-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xlnx089/)](https://www.github.com/xlnx089/) 
-[![Twitter Badge](https://img.shields.io/badge/-xlnx089-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/xlnx089/)](https://www.twitter.com/xlnx089/) 
-[![Instagram Badge](https://img.shields.io/badge/-xlnx089-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xlnx089&color=E1306C)](https://www.instagram.com/xlnx089/)
-[![Discord Badge](https://img.shields.io/badge/-xlnx089-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724&color=blueviolet)](https://discordapp.com/users/831452821689073724/)  
+[![Github Badge](https://img.shields.io/badge/-abmptrm-grey?style=flat&logo=github&logoColor=white&link=https://github.com/abmptrm/)](https://www.github.com/abmptrm/) 
+[![Twitter Badge](https://img.shields.io/badge/-abmptrm-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/abmptrm/)](https://www.twitter.com/abmptrm/) 
+[![Instagram Badge](https://img.shields.io/badge/-abmptrm-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/abmptrm&color=E1306C)](https://www.instagram.com/abmptrm/)
+[![Discord Badge](https://img.shields.io/badge/-abmptrm-purple?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/831452821689073724&color=blueviolet)](https://discordapp.com/users/831452821689073724/)  
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
 
@@ -60,16 +60,16 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werwer089&layout=compact)](https://github.com/ikann666/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmptrm&layout=compact)](https://github.com/ikann666/github-readme-stats)
 
 <!-- ![ario-bimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikan666&show_icons=true) -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=werwer089&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abmptrm&show_icons=true&include_all_commits=true&count_private=true"/>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werwer089&" alt="ikan666" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmptrm&" alt="ikan666" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xlnx089.xlnx089)
-![](https://komarev.com/ghpvc/?username=xlnx089&color=brightgreen)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abmptrm.abmptrm)
+![](https://komarev.com/ghpvc/?username=abmptrm&color=brightgreen)
 
 
 
