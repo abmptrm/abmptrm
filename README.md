@@ -1,4 +1,4 @@
-<!-- <h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> <img src="https://tenor.com/bc64D.gif" width="40px"></h1>   -->
+<!-- <h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>   -->
 <h1>Heyy </h1>
   
 <!-- <a href="https://twitter.com/abmptrm">
@@ -21,7 +21,8 @@
 
 
 <!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
-<img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/>
+<!-- <img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/> -->
+<img align="center" padding-left="18px" src="https://media.giphy.com/media/goDiN1ikcfN1H82ko9/giphy.gif" width="280px"><br/>
 <!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->  
 
 
