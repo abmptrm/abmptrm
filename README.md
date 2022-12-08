@@ -22,7 +22,7 @@
 
 <!-- <img align="center" padding-left="20px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px"><br/> -->
 <!-- <img align="center" padding-left="18px" src="https://s.kaskus.id/images/2014/04/30/1156579_20140430103950.gif" width="280px"><br/> -->
-<img align="center" padding-left="18px" src="https://media.giphy.com/media/goDiN1ikcfN1H82ko9/giphy.gif" width="280px"><br/>
+<img align="center" padding-left="18px" src="https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif" width="280px" style="border:3px solid #000; border-radius:20px"><br/>
 <!-- ![kocheng_1](https://media.giphy.com/media/MNC7vQTkm2xX7MZOTh/giphy.gif) -->  
 
 
