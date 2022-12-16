@@ -34,6 +34,7 @@
 
 <h2 align="left"> Languages and Tools 🔧 </h2>
 <div  style="float:left;">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
@@ -57,7 +58,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmptrm&layout=compact)](https://github.com/ikann666/github-readme-stats)<br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abmptrm&show_icons=true&include_all_commits=true&count_private=true"/><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmptrm&" alt="ikan666" /> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmptrm&" alt="ikan666" /> <br>
 
 </div>
 
