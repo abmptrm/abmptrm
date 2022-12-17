@@ -1,10 +1,10 @@
 <p  align="center">
 	<img  src="https://cdn.discordapp.com/attachments/982850933958516808/1053278179596451913/Haiii_Saya_1.png"  width="800">
 </p>
-<a  href="#"  ><img  src="https://visitor-badge.laobi.icu/badge?page_id=abmptrm.abmptrm" width="100">
+<a  href="#"><img  src="https://visitor-badge.laobi.icu/badge?page_id=abmptrm.abmptrm&left_text=Profile%20Views" width="130">
 </a>
-<a  href="#"  ><img  src="https://komarev.com/ghpvc/?username=abmptrm&color=brightgreen" width="140">
-</a>
+<!-- <a  href="#"  ><img  src="https://komarev.com/ghpvc/?username=abmptrm&color=brightgreen" width="140">
+</a> -->
 <h2 align="left"> About Me ✨ </h2>
 <div  style="float:left;">
  
