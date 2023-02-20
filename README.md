@@ -58,7 +58,7 @@
 <h2 align="left"> My Github Stats 📊 </h2>
 <div  style="float:left;">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmptrm&layout=compact)](https://github.com/ikann666/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmptrm&layout=compact)](https://github.com/abmptrm/github-readme-stats)<br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abmptrm&show_icons=true&include_all_commits=true&count_private=true"/><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abmptrm&" alt="ikan666" /> <br>
 
