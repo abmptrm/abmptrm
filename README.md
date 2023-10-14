@@ -7,7 +7,7 @@
 <div  style="float:left;">
  
  - 😎  Hello!, I’m Ario Bimo Munfadhil
- - 🌱  I’m currently learning on  **Python, JavaScript, Flask, Bootstrap**
+ - 🌱  I’m currently learning on  **Python, JavaScript, Flask**
  - 🌐  Join My Server Discord  [here!](https://discord.gg/KuCZ8hgeZy)
 
 </div>
